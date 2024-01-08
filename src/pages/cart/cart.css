@@ -1,0 +1,39 @@
+.cart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.cart table {
+  width: 100%;
+}
+.countHandler input {
+  width: 40px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.cartDetails {
+  position: relative;
+  width: 100%;
+}
+
+.cartTotal {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: 0;
+  right: 5%;
+  border: 1px solid #ffdcdc;
+  padding: 25px;
+}
+.cartTotal button {
+  display: block;
+}
+
+.cartEmpty {
+  text-align: center;
+}
+.cartTotal p {
+  padding-left: 10px;
+}

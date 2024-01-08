@@ -1,0 +1,23 @@
+.App {
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+button {
+  width: 150px;
+  height: 50px;
+  background-color: rgb(245 84 84);
+  font-weight: bold;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  margin: 10px;
+  cursor: pointer;
+}

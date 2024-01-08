@@ -1,0 +1,17 @@
+.orders {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.order-list td {
+  padding: 10px;
+}
+th {
+  text-align: left;
+  padding: 10px;
+}
+.rewardInfoText {
+  margin-top: 50px;
+}

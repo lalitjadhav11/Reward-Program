@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "productName": "SweatShirt",
+    "price": 35.0,
+    "productImage": "1.png"
+  },
+  {
+    "id": 2,
+    "productName": "V neck T-Shirt",
+    "price": 25.0,
+    "productImage": "2.png"
+  },
+  {
+    "id": 3,
+    "productName": "Blue T-Shirt",
+    "price": 20.0,
+    "productImage": "3.png"
+  },
+  {
+    "id": 4,
+    "productName": "Casual Shirt - Blue",
+    "price": 45.0,
+    "productImage": "4.png"
+  },
+  {
+    "id": 5,
+    "productName": "Casual Shirt - Black",
+    "price": 49.0,
+    "productImage": "5.png"
+  },
+  {
+    "id": 6,
+    "productName": "Casual Shirt - Gray",
+    "price": 55.0,
+    "productImage": "6.png"
+  },
+  {
+    "id": 7,
+    "productName": "Ladies Dress",
+    "price": 40.0,
+    "productImage": "7.png"
+  },
+  {
+    "id": 8,
+    "productName": "T-Shirt Blue",
+    "price": 30.0,
+    "productImage": "8.png"
+  }
+]

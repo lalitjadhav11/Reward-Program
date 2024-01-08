@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "orderId": "1db606de-1028-4d5d-9724-5f391d54b5c2",
+    "orderTotal": 140.0,
+    "productTotal": 3,
+    "rewardPoints": 130,
+    "date": 1699641000000
+  },
+  {
+    "id": 2,
+    "orderId": "6245c842-0675-4a5f-b865-5747c48698aa",
+    "orderTotal": 120.0,
+    "productTotal": 2,
+    "rewardPoints": 90,
+    "date": 1699554600000
+  },
+  {
+    "id": 3,
+    "orderId": "d6994311-d1a7-4f3b-a1ff-b4f81ff8c75a",
+    "orderTotal": 340.0,
+    "productTotal": 6,
+    "rewardPoints": 530,
+    "date": 1699122600000
+  },
+  {
+    "id": 4,
+    "orderId": "3bfd8d44-5584-49a2-aecd-44a5a206cd01",
+    "orderTotal": 90.0,
+    "productTotal": 3,
+    "rewardPoints": 40,
+    "date": 1694739030000
+  },
+  {
+    "id": 5,
+    "orderId": "a073f48e-3c0a-4db7-ae00-7c30c79499d4",
+    "orderTotal": 240.0,
+    "productTotal": 5,
+    "rewardPoints": 330,
+    "date": 1691887830000
+  },
+  {
+    "id": 6,
+    "orderId": "994585f0-1eff-4c50-80ab-398b135d3f0b",
+    "orderTotal": 180.0,
+    "productTotal": 3,
+    "rewardPoints": 210,
+    "date": 1686790230000
+  },
+  {
+    "id": 7,
+    "orderId": "f60a388b-dbdc-4499-9ad1-a4ee24c74798",
+    "orderTotal": 40.0,
+    "productTotal": 2,
+    "rewardPoints": 0,
+    "date": 1672770600000
+  }
+]
